@@ -1,0 +1,1 @@
+implementing PyQt GUI design with a sudoku solver (backtrack algorithm)
